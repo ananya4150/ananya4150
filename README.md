@@ -61,8 +61,6 @@ PyTorch-based CNN system for classifying focus, tracking, and exposure errors in
 ![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=database&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
----
-
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
