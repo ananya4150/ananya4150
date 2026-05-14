@@ -1,40 +1,37 @@
-
 # Hi, I'm Ananya Singh 👋
 
-MS in ECE @ Duke University focused on Deep Learning, ML Systems, and Applied AI.
+MS in ECE @ Duke University exploring deep learning, ML systems, and applied AI.
 
-I build practical AI systems across:
-- Deep Learning
-- Computer Vision
-- ML Pipelines
-- LLM + RAG Systems
+I’m someone who gets deeply absorbed in problems. Once something catches my attention, it rarely stays confined to my laptop — it follows me everywhere. I like researching how others approached a problem, understanding the reasoning behind different systems, breaking ideas apart on a whiteboard, and slowly building them back into something practical and real.
+
+A lot of my projects start with curiosity:
+“What would it actually take to make this work outside a paper?”
+
+That curiosity has pulled me into projects involving healthcare forecasting, wildfire detection, drone simulation, computer vision, and ML pipelines. I enjoy working at the intersection of research and engineering — taking ideas apart, experimenting, and building end-to-end systems that solve real-world problems.
+
+Lately, I’ve been especially interested in:
+- Deep Learning & Computer Vision
+- ML Systems Engineering
+- Healthcare AI
 - Time-Series Forecasting
-
-Currently interested in:
-Deep Learning Engineering • Applied AI • ML Systems • Computer Vision
-
----
-
-I enjoy building machine learning systems that solve real-world problems outside the lab — from healthcare forecasting and wildfire detection to intelligent data pipelines and computer vision systems.
-
-My work combines deep learning, data engineering, simulation environments, and applied AI research.
+- LLM + RAG Systems
+- Data Pipelines & Orchestration
 
 ---
 
-## Featured Projects
+## Some Things I've Built
 
 ### Parkinson’s Disease Severity Forecasting
-Transformer + LSTM forecasting system for longitudinal clinical progression modeling using 37K+ patient visits with retrieval-augmented contextual summaries.
+Built a Transformer + LSTM forecasting pipeline using longitudinal clinical records and retrieval-augmented explanations to predict disease progression over time.
 
 ### Wildfire Detection & Drone Simulation
-Computer vision wildfire detection system integrated with drone simulation and edge inference optimization workflows.
+Worked on wildfire detection research involving computer vision, edge optimization, and drone simulation environments for autonomous monitoring systems.
 
 ### Airflow ETL Event Pipeline
-Production-style ETL orchestration pipeline using Apache Airflow, PostgreSQL, and structured event processing.
+Built a production-style ETL workflow using Apache Airflow and PostgreSQL for ingesting and processing semi-structured event data.
 
 ### Astrophotography Error Classifier
-PyTorch-based CNN system for classifying focus, tracking, and exposure errors in astronomical imaging.
-
+Trained deep CNNs in PyTorch to classify focus, tracking, wind, and exposure errors in astronomical imagery.
 ---
 
 ## Tech Stack
@@ -80,10 +77,4 @@ PyTorch-based CNN system for classifying focus, tracking, and exposure errors in
 - Retrieval-Augmented Generation (RAG)
 - ML Systems Engineering
 - Healthcare AI
-- Scalable Data Pipelines
-
 ---
-
-## Connect With Me
-
-[LinkedIn](https://linkedin.com/in/singhananyaoh)
