@@ -32,6 +32,7 @@ Built a production-style ETL workflow using Apache Airflow and PostgreSQL for in
 
 ### Astrophotography Error Classifier
 Trained deep CNNs in PyTorch to classify focus, tracking, wind, and exposure errors in astronomical imagery.
+
 ---
 
 ## Tech Stack
