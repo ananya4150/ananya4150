@@ -2,12 +2,12 @@
 
 MS in ECE @ Duke University exploring deep learning, ML systems, and applied AI.
 
-I’m someone who gets deeply absorbed in problems. Once something catches my attention, it rarely stays confined to my laptop — it follows me everywhere. I like researching how others approached a problem, understanding the reasoning behind different systems, breaking ideas apart on a whiteboard, and slowly building them back into something practical and real.
+I’m someone who gets deeply absorbed in problems. Once something catches my attention, it rarely stays confined to my laptop, it follows me everywhere. I like researching how others approached a problem, understanding the reasoning behind different systems, breaking ideas apart on a whiteboard, and slowly building them back into something practical and real.
 
 A lot of my projects start with curiosity:
 “What would it actually take to make this work outside a paper?”
 
-That curiosity has pulled me into projects involving healthcare forecasting, wildfire detection, drone simulation, computer vision, and ML pipelines. I enjoy working at the intersection of research and engineering — taking ideas apart, experimenting, and building end-to-end systems that solve real-world problems.
+That curiosity has pulled me into projects involving healthcare forecasting, wildfire detection, drone simulation, computer vision, and ML pipelines. I enjoy working at the intersection of research and engineering taking ideas apart, experimenting, and building end-to-end systems that solve real-world problems.
 
 Lately, I’ve been especially interested in:
 - Deep Learning & Computer Vision
